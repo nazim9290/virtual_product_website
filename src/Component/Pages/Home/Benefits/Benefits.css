@@ -1,0 +1,19 @@
+h4 {
+  font-size: 20px;
+  text-align: start;
+  margin-left: 5px;
+  font-weight: 600;
+}
+
+h6 {
+  background-color: purple;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 16px;
+  text-align: start;
+  margin-left: 5px;
+}

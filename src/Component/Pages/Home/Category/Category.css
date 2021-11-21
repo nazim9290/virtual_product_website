@@ -1,0 +1,7 @@
+.category-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 5em;
+  margin-left: 2em;
+}
